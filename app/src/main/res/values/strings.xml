@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RegistroDeUsuario</string>
+
+    <!--Primera actividad-->
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="telefono">Télefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="Siguiente">Siguiente</string>
+
+    <!--Primera actividad-->
+
+    <!--segunda actividad-->
+    <string name="confimar_datos">Confirmar Datos</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="fecha_nacimiento2">0000-00-00</string>
+    <string name="descripcion2">Descripción</string>
+    <string name="editar">Editar Datos</string>
+
+    <!--segunda actividad-->
+
+
+    <!--variables a enviar-->
+    <string name="envnombre">nombre</string>
+    <string name="envtelefono">telefono</string>
+    <string name="envemail">email</string>
+    <string name="envdescripcion">descripcion</string>
+    <string name="envfechanacimiento">fechaNacimiento</string>
+
+    <!--variables a enviar-->
+
+
+</resources>

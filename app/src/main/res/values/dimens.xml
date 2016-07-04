@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="modificardatos">30dp</dimen>
+    <dimen name="textos_confirmar">18dp</dimen>
+    <dimen name="textos_confirmar2">15dp</dimen>
+    <dimen name="lados">40dp</dimen>
+</resources>
